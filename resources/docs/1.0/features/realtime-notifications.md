@@ -4,7 +4,7 @@ AddChat Laravel Pro comes with a custom **Internal** notification system & **Pus
 
 ---
 
-![Realtime notifications](https://addchat-pro-docs.classiebit.com/images/realtime-notification.jpg "Realtime notifications")
+![Realtime notifications](https://addchat-laravel-pro-docs.classiebit.com/images/realtime-notification.jpg "Realtime notifications")
 
 ---
 
@@ -60,7 +60,7 @@ By default, the **Internal** notification system is `enabled`. To switch to `Pus
 
 ---
 
-![Pusher setup](https://addchat-pro-docs.classiebit.com/images/pusher-setup.jpg "Pusher setup")
+![Pusher setup](https://addchat-laravel-pro-docs.classiebit.com/images/pusher-setup.jpg "Pusher setup")
 
 ---
 

@@ -4,7 +4,7 @@ Manage AddChat global settings here.
 
 ---
 
-![Addchat Settings](https://addchat-pro-docs.classiebit.com/images/addchat-pro-settings.jpg "Addchat Settings")
+![Addchat Settings](https://addchat-laravel-pro-docs.classiebit.com/images/addchat-pro-settings.jpg "Addchat Settings")
 
 ---
 

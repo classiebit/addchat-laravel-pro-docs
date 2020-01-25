@@ -4,7 +4,7 @@ Include/Exclude URLs feature is useful in cases, where to show AddChat widget on
 
 ---
 
-![Include or exclude URL](https://addchat-pro-docs.classiebit.com/images/include-exclude-url.jpg "Include or exclude URL")
+![Include or exclude URL](https://addchat-laravel-pro-docs.classiebit.com/images/include-exclude-url.jpg "Include or exclude URL")
 
 ---
 

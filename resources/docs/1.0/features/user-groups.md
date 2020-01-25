@@ -4,7 +4,7 @@ AddChat's one of the most awaited features. AddChat automatically detects the we
 
 ---
 
-![Multiple User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups.jpg "Multiple User Groups")
+![Multiple User Groups](https://addchat-laravel-pro-docs.classiebit.com/images/user-groups.jpg "Multiple User Groups")
 
 ---
 
@@ -23,7 +23,7 @@ AddChat's one of the most awaited features. AddChat automatically detects the we
 
 ---
 
-![Setup User Groups](https://addchat-pro-docs.classiebit.com/images/user-groups-setup.jpg "Setup User Groups")
+![Setup User Groups](https://addchat-laravel-pro-docs.classiebit.com/images/user-groups-setup.jpg "Setup User Groups")
 
 ---
 
@@ -86,7 +86,7 @@ Once after setting up Groups configuration successfully, you'll see all your web
 
 ---
 
-![Set User Groups Permissions](https://addchat-pro-docs.classiebit.com/images/user-groups-permissions.jpg "Set User Groups Permissions")
+![Set User Groups Permissions](https://addchat-laravel-pro-docs.classiebit.com/images/user-groups-permissions.jpg "Set User Groups Permissions")
 
 ---
 
@@ -115,7 +115,7 @@ Once everything is done, when the users click on the AddChat widget `User Groups
 
 ---
 
-![Chat within User groups](https://addchat-pro-docs.classiebit.com/images/user-groups-show.jpg "Chat within User groups")
+![Chat within User groups](https://addchat-laravel-pro-docs.classiebit.com/images/user-groups-show.jpg "Chat within User groups")
 
 ---
 

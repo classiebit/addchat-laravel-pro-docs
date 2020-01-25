@@ -4,7 +4,7 @@ Customer support, chat support, live support, guest chatting, whatever you say i
 
 ---
 
-![Live Customer support, Helpdesk, live chat support](https://addchat-pro-docs.classiebit.com/images/customer-support.jpg "Live Customer support, Helpdesk, live chat support")
+![Live Customer support, Helpdesk, live chat support](https://addchat-laravel-pro-docs.classiebit.com/images/customer-support.jpg "Live Customer support, Helpdesk, live chat support")
 
 ---
 
@@ -24,7 +24,7 @@ Customer support, chat support, live support, guest chatting, whatever you say i
 
 ---
 
-![Setup customer support or guest mode](https://addchat-pro-docs.classiebit.com/images/setup-guest-mode.jpg "Setup customer support or guest mode")
+![Setup customer support or guest mode](https://addchat-laravel-pro-docs.classiebit.com/images/setup-guest-mode.jpg "Setup customer support or guest mode")
 
 ---
 
@@ -52,7 +52,7 @@ Let's see how a Guest can start chatting without logging into the website.
 
 ---
 
-![Guest login](https://addchat-pro-docs.classiebit.com/images/start-guest-chat.jpg "Guest login")
+![Guest login](https://addchat-laravel-pro-docs.classiebit.com/images/start-guest-chat.jpg "Guest login")
 
 ---
 

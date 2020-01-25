@@ -4,7 +4,7 @@ AddChat Laravel Pro comes with a custom **Internal** notification system & **Pus
 
 ---
 
-![Realtime notifications](https://addchat-pro-docs.classiebit.com/images/realtime-notification.jpg "Realtime notifications")
+![Realtime notifications](https://addchat-laravel-pro-docs.classiebit.com/images/realtime-notification.jpg "Realtime notifications")
 
 ---
 

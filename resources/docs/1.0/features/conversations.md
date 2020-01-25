@@ -18,7 +18,7 @@ Along with sending text messages, users can do the following things as well
 
     <br>
 
-    ![Attach an image](https://addchat-pro-docs.classiebit.com/images/image-attachment.jpg "Attach an image")
+    ![Attach an image](https://addchat-laravel-pro-docs.classiebit.com/images/image-attachment.jpg "Attach an image")
 
     ---
 
@@ -27,7 +27,7 @@ Along with sending text messages, users can do the following things as well
 
     <br>
 
-    ![Send emojis & smileys](https://addchat-pro-docs.classiebit.com/images/smiley-support.jpg "Send emojis & smileys")
+    ![Send emojis & smileys](https://addchat-laravel-pro-docs.classiebit.com/images/smiley-support.jpg "Send emojis & smileys")
 
     ---
 
@@ -36,7 +36,7 @@ Along with sending text messages, users can do the following things as well
 
     <br>
 
-    ![Send links](https://addchat-pro-docs.classiebit.com/images/url-link.jpg "Send links")
+    ![Send links](https://addchat-laravel-pro-docs.classiebit.com/images/url-link.jpg "Send links")
 
     ---
 
@@ -45,7 +45,7 @@ Along with sending text messages, users can do the following things as well
 
     <br>
 
-    ![Quote message & reply](https://addchat-pro-docs.classiebit.com/images/message-quote.jpg "Quote message & reply")
+    ![Quote message & reply](https://addchat-laravel-pro-docs.classiebit.com/images/message-quote.jpg "Quote message & reply")
 
     ---
 
@@ -62,7 +62,7 @@ Click on the user image icon and to show action buttons.
 
 ---
 
-![Manage contacts](https://addchat-pro-docs.classiebit.com/images/manage-contact.jpg "Manage contacts")
+![Manage contacts](https://addchat-laravel-pro-docs.classiebit.com/images/manage-contact.jpg "Manage contacts")
 
 ---
 

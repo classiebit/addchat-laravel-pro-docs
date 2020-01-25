@@ -152,8 +152,8 @@ return [
         'og'              => [
             'title'       => 'AddChat Laravel Pro - Docs',
             'type'        => 'article',
-            'url'         => 'https://addchat-pro-docs.classiebit.com',
-            'image'       => 'https://addchat-pro-docs.classiebit.com/logo.png',
+            'url'         => 'https://addchat-laravel-pro-docs.classiebit.com',
+            'image'       => 'https://addchat-laravel-pro-docs.classiebit.com/logo.png',
             'description' => 'Add Chat widget to your Laravel website that lives on your server.',
         ]
     ],

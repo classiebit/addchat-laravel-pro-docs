@@ -14,7 +14,7 @@ From the top bar, switch between `Dark` <larecipe-badge type="primary" circle ic
 
 ---
 
-![Addchat Dark Mode](https://addchat-pro-docs.classiebit.com/images/dark-mode.jpg "Addchat Dark Mode")
+![Addchat Dark Mode](https://addchat-laravel-pro-docs.classiebit.com/images/dark-mode.jpg "Addchat Dark Mode")
 
 ---
 
@@ -30,7 +30,7 @@ From the top bar, **resize** the AddChat widget from `Small` <larecipe-badge typ
 
 ---
 
-![Addchat Mini Resize Mode](https://addchat-pro-docs.classiebit.com/images/mini-mode-1.jpg "Addchat Mini Resize Mode")
+![Addchat Mini Resize Mode](https://addchat-laravel-pro-docs.classiebit.com/images/mini-mode-1.jpg "Addchat Mini Resize Mode")
 
 ---
 

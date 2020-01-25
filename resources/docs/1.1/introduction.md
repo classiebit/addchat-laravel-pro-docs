@@ -4,7 +4,7 @@ Welcome to AddChat Laravel Pro documentation.
 
 ---
 
-![AddChat Laravel Pro Docs](https://addchat-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat Laravel Pro Docs")
+![AddChat Laravel Pro Docs](https://addchat-laravel-pro-docs.classiebit.com/images/addchat-pro-docs-banner-1.jpg "AddChat Laravel Pro Docs")
 
 
 > {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
