@@ -1,8 +1,8 @@
 - ## Quick Start
     - [Introduction](/{{route}}/{{version}}/introduction)
     - [Installation](/{{route}}/{{version}}/installation)
+    - [Configurations](/{{route}}/{{version}}/configurations)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
-    - [Settings](/{{route}}/{{version}}/admin/settings)
 
 - ## Features
     - [Realtime Notifications](/{{route}}/{{version}}/features/realtime-notifications)
