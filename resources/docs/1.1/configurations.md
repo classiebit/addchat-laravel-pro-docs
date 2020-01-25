@@ -207,12 +207,12 @@ AddChat comes with integrated Pusher service. To switch to Pusher real-time noti
 
 Whether to autoload AddChat migrations. 
 
-* Default is TRUE (enabled) RECOMMENDED
+- **Default is TRUE (enabled) RECOMMENDED**
 
-When enabled, AddChat migrations managed automatically on running migration command. AddChat migrations will autorun even when updating to a new AddChat version. When updating AddChat, AddChat migrations will auto-run on running migration command and it'll update it's database tables without losing or modifying existing data in DB.
+    When enabled, AddChat migrations managed automatically on running migration command. AddChat migrations will autorun even when updating to a new AddChat version. When updating AddChat, AddChat migrations will auto-run on running migration command and it'll update it's database tables without losing or modifying existing data in DB.
 
 
-* If it's FALSE (disabled)
+- **If it's FALSE (disabled)**
 
-You'll need to copy AddChat migrations files to your app migrations folder. Then, you can manage the migration files yourself. This will be the case when you're customizing the AddChat on your own.
+    You'll need to copy AddChat migrations files to your app migrations folder. Then, you can manage the migration files yourself. This will be the case when you're customizing the AddChat on your own.
 

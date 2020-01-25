@@ -309,7 +309,7 @@ This is an advanced installation method. This method will help you customizing t
 
 ---
 
->{success} Setup finishes here, now heads-up straight to **[Include/Exclude URLs](/{{route}}/{{version}}/admin/configurations)** docs
+>{success} Setup finishes here, now heads-up straight to **[Configurations](/{{route}}/{{version}}/configurations)** docs
 
 ---
 

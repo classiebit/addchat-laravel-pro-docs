@@ -4,10 +4,6 @@ Include/Exclude URLs feature is useful in cases, where to show AddChat widget on
 
 ---
 
-![Include or exclude URL](https://addchat-pro-docs.classiebit.com/images/include-exclude-url.jpg "Include or exclude URL")
-
----
-
 For Example
 
 1. There are some pages, where AddChat widget needs not to be shown. Like on about us, terms, privacy policy, etc pages. 
@@ -33,15 +29,9 @@ For Example
 
 To `Show` AddChat widget only on some specific URLs.
 
-1. Go to `Admin Panel -> Settings` and scroll down to **INCLUDE/EXCLUDE URLs** section
-
-2. Click on `Include URLs` to turn it `On`
-
-3. Then click on &nbsp;<larecipe-button type="primary" size="sm" radius="full">Add More URL +</larecipe-button>
-
-4. Enter the `Path` where to `show` the widget.
-
-5. Repeat the 3rd & 4th step to add more URLs.
+1. Go to `config/addchat.php` and scroll to **Include/Exclude URLs** section.
+2. Add multiple paths (URL segments only) in array format and save the file.
+3. Now, AddChat widget will show only on those paths of your website.
 
 
 <a name="Setup-Exclude-URLs"></a>
@@ -49,15 +39,9 @@ To `Show` AddChat widget only on some specific URLs.
 
 To `Hide` AddChat widget only on specific URLs.
 
-1. Go to `Admin Panel -> Settings` and scroll down to **INCLUDE/EXCLUDE URLs** section
-
-2. Click on `Exclude URLs` to turn it `on`
-
-3. Then click on &nbsp;<larecipe-button type="primary" size="sm" radius="full">Add More URL +</larecipe-button>
-
-4. Enter the `Path` where to `hide` the widget.
-
-5. Repeat the 3rd & 4th step to add more URLs.
+1. Go to `config/addchat.php` and scroll to **Include/Exclude URLs** section.
+2. Add multiple paths (URL segments only) in array format and save the file.
+3. Now, AddChat widget will be shown except those paths of your website.
 
 ---
 

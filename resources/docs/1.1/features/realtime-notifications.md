@@ -56,28 +56,18 @@ Pusher notification system fetches the following things in realtime.
 <a name="Pusher-Setup"></a>
 ## Pusher Setup
 
-By default, the **Internal** notification system is `enabled`. To switch to `Pusher` notifications, firstly, you (as website Admin) need to [Signup on Pusher](https://pusher.com/signup) and `create an app` and get the Pusher API credentials.
+By default, the **Internal** notification system is `enabled`. To switch to `Pusher` notifications, firstly, you (as website Admin) need to [Signup on Pusher](https://pusher.com/signup) and `create an app` and get the Pusher API credentials. Once you have the **Pusher** credentials -
 
----
+<br>
 
-![Pusher setup](https://addchat-pro-docs.classiebit.com/images/pusher-setup.jpg "Pusher setup")
-
----
-
-
-Once you have the **Pusher** credentials, open AddChat widget and -
-
-1. Go to `Admin Panel -> Settings` & scroll down to **Realtime Notifications** section.
-
-2. Select `Notification Type` to `Pusher Notification`
-
-3. Then enter the fields-
+1. Go to addchat config file `config/addchat.php` & scroll down to **Notification Type** section.
+2. Set `notification_type` to `pusher`
+3. Then enter the Pusher credentials-
  - Pusher App Id
  - Pusher Key
  - Pusher Secret
  - Pusher Cluster
-
-4. Click on save settings and you're done.
+4. Save the file and you're done.
 
 ---
 

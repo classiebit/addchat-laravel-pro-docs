@@ -24,20 +24,14 @@ Customer support, chat support, live support, guest chatting, whatever you say i
 
 ---
 
-![Setup customer support or guest mode](https://addchat-pro-docs.classiebit.com/images/setup-guest-mode.jpg "Setup customer support or guest mode")
-
----
-
 >{info} Read the **[User Groups](/{{route}}/{{version}}/features/user-groups)** feature before continuing to below steps.
 
 ---
 
 It's very simple to `enable` the **Guest Mode**, you only need to -
 
-1. Go to `Admin Panel -> Settings`
-2. Scroll down to **GUEST MODE** section
-3. Click on the `Guest Mode` checkbox, to turn it `on/off`
-4. Finally, enter the **Guest Group Id** (value), the User-group that can chat with Guests (users who are not logged in)
+1. Go to `config/addchat.php` file and scroll to `Guest Mode` section
+2. Add `guest_group_id`. The group who can chat with guests. Although, Admin group can chat with Guests by default.
 
 
 >{success} After the above step completes, `Admin` & `Guest-group` users can see a **Guest/Customer Support** tab on the chat widget.
