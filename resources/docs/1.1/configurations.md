@@ -25,7 +25,7 @@ Add your website identity & branding to the AddChat widget. These changes are fo
 
 |Setting Name|Type|Default|Description|
 |:-|:-|
-|widget_name|`required`|AddChat Laravel Pro|Brand/Website name|
+|widget_name|`required`|`AddChat Laravel Pro`|Brand/Website name|
 |widget_logo|`required`|`addchat/img/addchat-logo-white.png`|Logo for AddChat widget and admin panel|
 |widget_icon|`required`|`addchat/img/addchat-shadow.png`|Logo for the widget icon|
 |widget_user_avatar|`required`|`addchat/img/avatar.png`|Images placeholder|
@@ -42,7 +42,7 @@ AddChat uploads User profile pics & Messages attachments in `storage/public` fol
 
 |Setting Name|Type|Default|Description|
 |:-|:-|
-|upload_path|`required`|addchat|Profile pics & message attachments uploading path|
+|upload_path|`required`|`storage/addchat`|Profile pics & message attachments uploading path|
 
 
 <a name="Users-Table"></a>
