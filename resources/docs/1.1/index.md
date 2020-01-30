@@ -12,6 +12,7 @@
     - [Magic Modes](/{{route}}/{{version}}/features/magic-modes)
     - [Customer Support](/{{route}}/{{version}}/features/customer-support)
     - [Include/Exclude URLs](/{{route}}/{{version}}/features/include-exclude-urls)
+    - [External Button (v1.1)](/{{route}}/{{version}}/features/external-button)
 
 - ## Admin
     - [Admin Panel](/{{route}}/{{version}}/admin/admin-panel)
