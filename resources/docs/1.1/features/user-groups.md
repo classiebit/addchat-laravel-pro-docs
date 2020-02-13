@@ -47,10 +47,6 @@ After completing the above requirements, the **Groups** can be `enabled` by foll
 
 ---
 
-> {success} After completing all the above steps, click on &nbsp;<larecipe-button type="white" size="sm" radius="full">Save Settings</larecipe-button> and logout & login again.
-
----
-
 
 
 <a name="Set-Groups-Permissions"></a>
