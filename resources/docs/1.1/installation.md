@@ -11,7 +11,7 @@ AddChat can be installed via composer. Awesome... ✌️. Now, as of v1.1.0 rele
 - [Prerequisites](#Prerequisites)
 - [Non-developer Installation](#Non-developer-Installation)
 - [Developer Installation](#Developer-Installation)
-<!-- - [Purchased From Codecanyon](#Purchased-From-Codecanyon) -->
+- [Purchased From Codecanyon](#Purchased-From-Codecanyon)
 
 
 <a name="Prerequisites"></a>
@@ -53,10 +53,7 @@ AddChat can be installed via composer. Awesome... ✌️. Now, as of v1.1.0 rele
  ```
 
 
-2. Unzip the `addchat-laravel-pro.zip` file, copy the `addchat-laravel-pro` folder and place it in your Laravel application root directory.
-
- >{warning} The folder name must be `addchat-laravel-pro` in your Laravel website directory.
- 
+2. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` file and copy the `addchat-laravel-pro` folder and place it in your Laravel application root directory.
 
 3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
@@ -204,11 +201,7 @@ This is an advanced installation method. This method will help you customizing t
  php artisan migrate
  ```
 
-
-2. Unzip the `addchat-laravel-pro.zip` file. Copy `addchat-laravel-pro` & `addchat-vuejs-pro` and paste them into Laravel website root directory.
- 
- >{warning} The folder name must be same as `addchat-laravel-pro` and `addchat-vuejs-pro`.
- 
+2. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` & `addchat-vuejs-pro.zip` files and copy the `addchat-laravel-pro` & `addchat-vuejs-pro` folder and place it in your Laravel application root directory (near **vendor** folder).
 
 3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
@@ -313,7 +306,7 @@ This is an advanced installation method. This method will help you customizing t
 
 ---
 
-<!-- <a name="Purchased-From-Codecanyon"></a>
+<a name="Purchased-From-Codecanyon"></a>
 ## Purchased From Codecanyon
 
 If you've purchased AddChat Laravel Pro from Codecanyon `codecanyon.net` then follow these simple steps-
@@ -322,4 +315,4 @@ If you've purchased AddChat Laravel Pro from Codecanyon `codecanyon.net` then fo
 2. Visit [classiebit.com](https://classiebit.com), signup as new user and go to [Downloads](https://classiebit.com/downloads)
 3. Click on <larecipe-button radius="half" type="black">Purchased from Codecanyon?</larecipe-button>
 4. In the popup, enter the Purchase-code and submit. You'll see the product on the download list.
-5. At last, add the authorized domain. And you're good to go. 👍 -->
+5. At last, add the authorized domain. And you're good to go. 👍
