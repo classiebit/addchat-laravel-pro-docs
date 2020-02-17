@@ -23,6 +23,12 @@ Updating AddChat Laravel Pro is simple. Just download the latest version of AddC
     composer install --optimize-autoloader --no-dev
     ```
 
+* Run this command to publish updated AddChat assets to your project. This will only update the files in `public/addchat` folder.
+
+    ```php
+    php artisan vendor:publish --tag=addchat_public --force
+    ```
+
 * At last, run these cache clear commands
 
     ```php
@@ -45,4 +51,19 @@ If you've used **Developer Installation**, then also follow these steps.
 
     ```php
     npm update
+    ```
+
+* Run this command to publish updated AddChat assets to your project. This will only update the files in `public/addchat` folder.
+
+    ```php
+    php artisan vendor:publish --tag=addchat_public --force
+    ```
+
+* At last, run these cache clear commands
+
+    ```php
+    php artisan config:clear
+    php artisan cache:clear
+    php artisan view:clear
+    php artisan route:clear
     ```
