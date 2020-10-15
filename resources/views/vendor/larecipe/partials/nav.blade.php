@@ -27,7 +27,9 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="https://classiebit.com/addchat-laravel-pro" target="__blank" type="primary" class="mx-2 px-4">Live Preview</larecipe-button>
+            <larecipe-button tag="a" href="https://classiebit.com/addchat-laravel-pro" target="__blank" type="success" class="mx-2 px-4">
+                <i class="fas fa-shopping-cart"></i> Purchase Pro $49 <span style="text-decoration: line-through;color: #f00;">$79</span>
+            </larecipe-button>
 
 
             {{-- versions dropdown --}}
