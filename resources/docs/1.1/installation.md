@@ -17,45 +17,26 @@ AddChat can be installed via composer. Awesome... ✌️. Now, as of v1.1.0 rele
 <a name="Prerequisites"></a>
 ## Prerequisites
 
-* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x
+* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x / 7.x / 8.x
+* Laravel Authentication must be installed.
 * Make sure to install the AddChat package on a **Fresh** or **Existing** Laravel application. 
 * We also assume that you've set up the database.
 * If you're running MySql version older than < 5.7 then disable strict mode in your Laravel app.
  - Go to `config/database.php` and update `'strict' => false` in `mysql` section.
 
+---
+
+> {primary} Laravel installation guide **[Laravel Installation](https://laravel.com/docs/)** 👈
+
+---
 
 
 <a name="Non-developer-Installation"></a>
 ## Non-developer Installation
 
-1. If installing AddChat on an existing Laravel application and you already have **Auth** system then **skip this step**
+1. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` file and copy the `addchat-laravel-pro` folder and place it in your Laravel application root directory.
 
- If installing on a **Fresh Laravel application** then run 
-
- **For Laravel 5.5 to 5.8**
-
- ```php
- php artisan make:auth
-
- php artisan migrate
- ```
-
- **For Laravel 6.x**
-
- ```php
- composer require laravel/ui --dev
-
- php artisan ui vue --auth
-
- npm install && npm run dev
-
- php artisan migrate
- ```
-
-
-2. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` file and copy the `addchat-laravel-pro` folder and place it in your Laravel application root directory.
-
-3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
+2. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
  ```json
  "repositories": [{
@@ -86,24 +67,24 @@ AddChat can be installed via composer. Awesome... ✌️. Now, as of v1.1.0 rele
 
 
 
-4. Install AddChat Laravel Pro via Composer
+3. Install AddChat Laravel Pro via Composer
 
  ```php
  composer require classiebit/addchat-laravel-pro
  ```
 
-5. Run AddChat install command
+4. Run AddChat install command
 
  ```php
  php artisan addchat:install
  ```
 
-6. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
+5. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
 
  >{info} Remember, one license code is valid for one domain only. Contact support for more details.
 
 
-7. Open the common layout file, mostly the common layout file is the file that contains the HTML & BODY tags.
+6. Open the common layout file, mostly the common layout file is the file that contains the HTML & BODY tags.
 
  - Copy AddChat CSS code and paste it right before closing **&lt;/head&gt;** tag
 
@@ -177,33 +158,9 @@ This is an advanced installation method. This method will help you customizing t
 
 <br>
 
-1. If installing AddChat on an existing Laravel application and you already have **Auth** system then **skip this step**.
+1. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` & `addchat-vuejs-pro.zip` files and copy the `addchat-laravel-pro` & `addchat-vuejs-pro` folder and place it in your Laravel application root directory (near **vendor** folder).
 
- If installing on a **Fresh Laravel application** then run 
-
- **For Laravel 5.5 to 5.8**
-
- ```php
- php artisan make:auth
-
- php artisan migrate
- ```
-
- **For Laravel 6.x**
-
- ```php
- composer require laravel/ui --dev
-
- php artisan ui vue --auth
-
- npm install && npm run dev
-
- php artisan migrate
- ```
-
-2. Unzip the `addchat-laravel-pro-1.1.0.zip` file you downloaded. Then unzip the `addchat-laravel-pro.zip` & `addchat-vuejs-pro.zip` files and copy the `addchat-laravel-pro` & `addchat-vuejs-pro` folder and place it in your Laravel application root directory (near **vendor** folder).
-
-3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
+2. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
  ```json
  "repositories": [{
@@ -231,30 +188,30 @@ This is an advanced installation method. This method will help you customizing t
 
  ```
 
-4. Install AddChat Laravel Pro via Composer
+3. Install AddChat Laravel Pro via Composer
 
  ```php
  composer require classiebit/addchat-laravel-pro
  ```
 
-5. **(NEW STEP)** Install AddChat VueJS Pro via NPM
+4. **(NEW STEP)** Install AddChat VueJS Pro via NPM
 
  ```php
  npm install addchat-vuejs-pro
  ```
 
-6. Run AddChat install command
+5. Run AddChat install command
 
  ```php
  php artisan addchat:install
  ```
 
 
-7. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
+6. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
 
  >{info} Remember, one license code is valid for one domain only. Contact support for more details.
 
-8. Now, you need to import the AddChat VueJS plugin into your VueJS app. 
+7. Now, you need to import the AddChat VueJS plugin into your VueJS app. 
 
  - Go to your website `resources/js/app.js` and import the AddChat VueJS plugin.
 
@@ -270,7 +227,7 @@ This is an advanced installation method. This method will help you customizing t
  ```
 
 
-9. In the last step, you only need to include `addchat.min.css` and VueJS widget code.
+8. In the last step, you only need to include `addchat.min.css` and VueJS widget code.
 
  - Copy AddChat CSS code and paste it right before closing **&lt;/head&gt;** tag
 
